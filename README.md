@@ -2,6 +2,8 @@
 
 Downloads of ManaRelay, the life counter for Magic: The Gathering, outside the app stores.
 
+Builds that haven't been released in the app stores are marked **beta**. Right now every build is a beta.
+
 ## Android
 
 Download the latest version: [ManaRelay-android.apk](https://github.com/nikpcenicni/ManaRelay-releases/releases/latest/download/ManaRelay-android.apk)
@@ -13,7 +15,9 @@ Download the latest version: [ManaRelay-android.apk](https://github.com/nikpceni
 
 ## iPhone and iPad
 
-Download the latest unsigned build: [ManaRelay-ios-unsigned.ipa](https://github.com/nikpcenicni/ManaRelay-releases/releases/latest/download/ManaRelay-ios-unsigned.ipa)
+The easiest way is the public beta on TestFlight: [join the beta](https://testflight.apple.com/join/EXH5bCxh).
+
+Or download the latest unsigned build: [ManaRelay-ios-unsigned.ipa](https://github.com/nikpcenicni/ManaRelay-releases/releases/latest/download/ManaRelay-ios-unsigned.ipa)
 
 - It isn't signed, so it can't be installed as it is. Sign it with your own Apple ID using a sideloading tool such as AltStore or Sideloadly.
 - Needs iOS 17 or newer.
